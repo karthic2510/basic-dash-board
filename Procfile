@@ -1,1 +1,1 @@
-web: python dashboard_app.py
+web: python app.py
