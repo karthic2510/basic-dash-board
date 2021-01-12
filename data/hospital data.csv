@@ -1,0 +1,659 @@
+﻿id,state,join_date,staffed_beds,number_discharges,est_ED_visits,average_LOS,LWBS_rate,region,geographic_classification,hospital_type,firm_type
+00185eb4-f642-4887-b886-06833feb9a44,CA,5/28/2016,48,2639,30957,4.3,,West,Urban,Short Term Acute Care Hospital,Hospital
+007a8af5-5114-44eb-a3ba-3589e4164c3c,CA,6/11/2016,130,8424,47130,4.8,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+00ec9630-2d8c-4c09-85d3-fb283c2c15f2,VA,5/20/2017,63,2346,23412,3.5,,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+014bb621-fc34-4607-b60d-81697bcf9d4b,CA,6/18/2017,,,,,,West,Urban,Short Term Acute Care Hospital,Hospital
+01cd46a3-a755-4fc3-9ce6-4a37259a97e4,OR,12/19/2019,,,,,,,,,
+01dcb25d-8b82-46a1-892c-6677593f00b5,UT,3/5/2017,82,3606,17596,3.5,,West,Urban,Short Term Acute Care Hospital,Hospital
+023d3c1a-ee54-4aab-bceb-7b26c1cbfb5e,VA,6/10/2018,110,6244,30377,3.9,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+02421149-a050-4030-b5c0-b1613e5870f2,CA,4/16/2018,218,9248,32113,4.3,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+02bd11b8-875b-49d5-b58b-2291be2a3769,WA,2/5/2020,,,,,,,,,
+03806485-a449-47f9-8bb1-7d5f5f66e6c3,CA,4/30/2017,106,3642,35095,4.3,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+04428f8b-fe89-4cc6-a399-7d42c314c45e,NM,2/13/2017,184,8857,56813,4.1,0.01,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+04d6c1c5-f95b-4492-8be3-f586452a4bdb,CA,10/9/2019,254,7691,22910,5.5,,West,Urban,Short Term Acute Care Hospital,Hospital
+051c88f9-f3ca-4677-b652-e9e844a1d188,VA,6/18/2018,330,15921,195363,5.1,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+0594d708-4ac1-4ba5-858b-aadbf66d2e97,CA,5/4/2020,102,2865,9465,4.8,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+06cfc625-081e-4426-9991-036ecd8437ac,NM,1/8/2019,25,439,10846,2.4,,Southwest,Rural,Critical Access Hospital,Hospital
+079bb43f-7681-40b2-9615-a198d1964bd6,NH,8/12/2018,142,9425,44277,3.9,0.02,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+099bc1e0-31ba-4afc-ab07-70ad01bd3f9a,WV,7/14/2017,25,646,7849,3.1,,Southeast,Rural,Critical Access Hospital,Hospital
+0a10402e-fbe4-4972-aab6-47439ede8784,CA,1/20/2019,267,13749,45603,4.7,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+0a5df824-8203-422f-81c3-ee865f0e58ef,CA,4/9/2019,113,3875,30653,5.1,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+0a60a287-1aef-46aa-aba8-80754e486061,CA,4/29/2018,313,15776,28318,4,0.1,West,Urban,Short Term Acute Care Hospital,Hospital
+0a7d177d-7b50-49be-a6be-feaf464b4ac5,MA,5/18/2018,335,23936,59417,4.9,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+0a94a0db-c3c5-4e74-955e-c5617e251054,NH,5/27/2017,401,18966,29214,6.1,0.02,Northeast,Rural,Short Term Acute Care Hospital,Hospital
+0c050c52-a93a-4085-aa3f-63b6f399c3b7,CA,9/10/2017,84,4158,34473,4,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+0cd8ea94-2b1e-4b43-9243-fa6119dd0fce,UT,3/4/2017,117,4289,14161,4.4,,West,Urban,Short Term Acute Care Hospital,Hospital
+0d677ff9-c005-4b19-a202-bbf66cfc5cf2,CA,4/29/2018,254,4832,17306,4.9,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+0e0304a1-ae97-46c3-b7ea-93dfd93f15aa,CA,1/20/2019,25,992,8370,3,0.01,West,Rural,Critical Access Hospital,Hospital
+0e16a603-90a7-45b3-98d2-f460c2979da7,ID,6/18/2019,20,92,3630,3.2,0.01,West,Rural,Critical Access Hospital,Hospital
+0e4717aa-1f40-44b6-8ac3-adbafa064a53,CA,3/3/2017,134,6914,30738,4.9,0.07,West,Rural,Short Term Acute Care Hospital,Hospital
+0e49ac63-a577-4603-961c-bc082a16f52d,CA,,447,26371,70016,5.6,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+0e62fec1-7eb3-44cf-8f4e-74b3947c0f98,CA,5/18/2018,10,129,5328,3.2,0.01,West,Rural,Critical Access Hospital,Hospital
+0e823f31-c526-481f-8804-8018bb8582b8,VA,6/8/2018,147,10021,72910,4.5,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+0edccd5d-16bf-4253-b704-362d7bdfaafd,WV,7/4/2018,59,1745,11709,3.6,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+0f31efc1-6a45-4fb9-93b1-438dc404488d,CA,,366,19145,112279,5.2,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+1007becc-739b-4ee5-9328-5477a08f8c52,MA,7/13/2019,259,16843,61490,4,0.02,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+10089,OR,6/15/2014,222,15055,40155,4,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+101,OR,3/28/2014,384,19502,63640,5.2,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+102,OR,3/28/2014,164,9684,28894,4.1,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+10252382-8ab4-4b9a-ab8a-5e584477775f,VA,6/10/2018,,,,,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+107,WA,6/18/2012,208,14325,87247,3.1,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+108,WA,9/20/2012,25,260,3293,2.9,,West,Rural,Critical Access Hospital,Hospital
+1080,OR,4/26/2014,40,918,12564,3.5,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+109,WA,7/30/2012,25,9,640,3,,West,Rural,Critical Access Hospital,Hospital
+11,WA,7/20/2011,304,19056,73027,5.2,0.05,West,Urban,Short Term Acute Care Hospital,Hospital
+111,WA,9/27/2012,9,70,3072,2.8,,West,Rural,Critical Access Hospital,Hospital
+11158d8d-5518-4144-99fb-f562c954e82e,ID,3/29/2019,31,1435,12506,1.9,0.01,West,Rural,Critical Access Hospital,Hospital
+112,WA,8/4/2012,126,6688,30271,3.3,,West,Urban,Short Term Acute Care Hospital,Hospital
+113,AK,1/16/2017,391,15660,80717,7,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+116,WA,4/6/2012,58,1256,9052,2.4,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+117,WA,3/24/2012,130,,,,,West,Urban,Short Term Acute Care Hospital,Hospital
+119e5326-2402-4697-9c30-301934ab4d2f,MA,4/7/2018,,,,,,,,,
+11be8859-ecc8-4475-8ee0-d6db759b2293,WV,11/5/2016,70,1510,17047,3.7,,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+11f04630-3530-4a92-b597-cf4e1e0f6b55,NM,6/2/2017,293,12469,32921,5,0.01,Southwest,Urban,Short Term Acute Care Hospital,Hospital
+12,WA,7/22/2011,127,4557,45010,4.2,0.03,West,Rural,Short Term Acute Care Hospital,Hospital
+122,WA,11/13/2012,,,,,,West,Urban,Short Term Acute Care Hospital,Hospital
+124,WA,8/5/2012,181,8959,22297,5.4,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+12402c4d-3688-4f3f-b2a2-4c273ad22e90,NM,4/23/2019,11,338,2158,3.1,,Southwest,Rural,Critical Access Hospital,Hospital
+12460,OR,4/17/2015,19,258,3885,3,,West,Rural,Critical Access Hospital,Hospital
+125,WA,8/4/2012,,,,,,,,,
+12549,OR,2/24/2014,23,727,10456,2.9,0.02,West,Rural,Critical Access Hospital,Hospital
+126,WA,8/5/2012,77,,,,,West,Urban,Short Term Acute Care Hospital,Hospital
+127,WA,8/5/2012,49,1699,13275,4.2,0.02,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+12a0174c-6e74-449e-9685-f30540520393,CA,11/18/2014,377,15964,69493,4.6,0.02,West,Rural,Short Term Acute Care Hospital,Hospital
+12b00589-e094-4833-9fef-3e884ef8b84a,CA,3/13/2016,296,11601,47653,4.5,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+1309b04e-4216-48ad-b9ce-a2a678dfce2e,CA,2/18/2017,212,14145,74449,4.8,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+13326,OR,12/11/2014,17,603,6523,3.2,,West,Rural,Critical Access Hospital,Hospital
+13551,OR,10/26/2014,16,383,3044,3.1,,West,Rural,Critical Access Hospital,Hospital
+13846,OR,5/17/2014,122,7056,39924,3.7,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+1384841e-2efc-468e-9f0f-f94a3634f414,CA,6/18/2017,64,3070,28356,3.3,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+1393,OR,5/19/2014,130,5661,23519,4.4,0.02,West,Rural,Short Term Acute Care Hospital,Hospital
+13b6b463-babd-4940-9e92-5504a8dc6dd5,CA,7/31/2019,6,24,,3.9,,West,Urban,Short Term Acute Care Hospital,Hospital
+14,WA,9/28/2011,374,24310,55427,4.8,0.04,West,Urban,Short Term Acute Care Hospital,Hospital
+1421caa9-ef36-4e68-a4b6-7de8e375de82,MA,5/27/2017,111,5675,32707,4.3,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+14999,OR,2/24/2014,40,2454,34940,3.4,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+15,WA,9/27/2011,124,9068,54041,3.8,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+15006,OR,2/23/2014,462,24083,66650,5.1,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+16,WA,9/28/2011,106,5282,49245,6.1,0.04,West,Urban,Short Term Acute Care Hospital,Hospital
+17,WA,9/27/2011,112,5223,24839,4.8,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+17154ec4-5159-422a-9bbf-7bf11b876314,CA,2/18/2017,290,14179,69981,4.5,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+173c7e6c-a507-4f01-b463-7ea008624f5a,NM,6/2/2017,70,3079,20241,3.2,0.01,Southwest,Urban,Short Term Acute Care Hospital,Hospital
+173d1d74-0832-4edb-95c5-3bca500993c0,VA,6/6/2018,238,13763,75055,4,0.01,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+1748,OR,4/19/2014,105,4913,26242,3.7,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+1775986e-e06b-44e5-89e4-e5c1740b1ae4,VA,6/9/2018,139,7643,34413,4.4,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+178c4e04-da6f-4545-bd32-6632a41e20ee,VA,6/24/2018,,,,,,,,,
+18,WA,9/28/2011,25,1250,13462,3.8,0.02,West,Urban,Critical Access Hospital,Hospital
+184b8c89-c947-42f9-be01-57f09b5b6bbc,CA,9/10/2017,323,17633,58516,4.5,0.02,West,Rural,Short Term Acute Care Hospital,Hospital
+187073df-07be-42a3-bf75-354898d386a1,MA,8/16/2019,67,3360,26820,4.9,0.02,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+18c1289e-5357-463f-af30-6c71d77d9e32,CA,9/10/2017,57,,,,,West,Urban,Short Term Acute Care Hospital,Hospital
+18c96790-d63b-4b99-b96d-2205ebc11ce0,VA,5/17/2018,92,1958,19411,3.3,,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+19,OR,4/1/2014,168,9063,56104,3.4,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+190c2930-5cf8-489f-841e-eee664eb3724,NM,8/10/2020,25,131,5542,3.4,,Southwest,Rural,Critical Access Hospital,Hospital
+1941eeb0-6b74-4943-af16-991600ddda3e,CA,8/30/2019,25,987,12794,3.3,0.01,West,Rural,Critical Access Hospital,Hospital
+19725,OR,6/16/2014,16,536,12392,3.2,0.01,West,Rural,Critical Access Hospital,Hospital
+197bea4b-4591-4b25-b455-e560bc8d4ed9,UT,3/6/2017,40,1082,12562,2.9,,West,Rural,Short Term Acute Care Hospital,Hospital
+19909,OR,2/24/2014,126,6322,34568,4,0.02,West,Rural,Short Term Acute Care Hospital,Hospital
+1a23a336-dd22-4e5e-84be-d26cbc826919,VA,6/26/2018,,,,,,,,,
+1a273c2e-618a-41dd-bee7-da65ee1c7f6c,MA,4/6/2018,212,10714,85291,5.1,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+1af50be3-0642-4527-a84b-fbb5527e6309,MA,9/2/2020,58,2503,15902,4.2,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+1b5dd0b8-322b-4a0b-9b09-826ecdf385aa,VA,6/4/2018,68,1879,21623,2.7,,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+1bc47074-974d-43a6-959a-3272ad719995,MA,4/7/2018,57,1690,11518,3.3,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+1c1221fb-9727-47d4-821c-f9e3e33f234f,VA,5/28/2018,209,10439,62348,3.6,0.02,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+1c6d79e2-3a8a-4c42-9891-304310e67896,UT,10/9/2017,58,2780,20682,3.2,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+1e303268-ead6-43bf-878e-7735f34ec04a,VA,6/18/2018,92,3891,28588,3.6,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+1ef92dbd-de1f-4c4a-9e97-6de5c1cabeac,VA,6/8/2018,471,24806,72986,6.3,0.02,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+1f292afd-c6d0-4e87-99b8-716be7a5ab26,WV,8/19/2019,25,565,12357,3.9,0.02,Southeast,Urban,Critical Access Hospital,Hospital
+1f77d841-59e9-4ac9-ad6d-ad1a8299d1b0,VA,6/5/2018,225,12958,18462,5.2,0.02,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+1ff74d7c-5911-492b-80dc-766b253c9aab,CA,5/4/2020,103,6412,40882,3.9,0.05,West,Urban,Short Term Acute Care Hospital,Hospital
+20,WA,3/11/2012,73,6199,36856,4.5,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+2035c4be-8d1c-4519-b2bb-fed038be37de,MA,4/21/2017,89,4504,25204,4.3,0.02,Northeast,Rural,Short Term Acute Care Hospital,Hospital
+20d2cd52-d5df-4ecb-81e4-9ac1a3397d24,CA,7/11/2018,16,238,4583,3.7,,West,Rural,Critical Access Hospital,Hospital
+21,WA,7/14/2012,25,173,4054,2.6,,West,Rural,Critical Access Hospital,Hospital
+21225,OR,5/11/2014,383,28260,63750,4.4,0.05,West,Urban,Short Term Acute Care Hospital,Hospital
+215e7a6f-a72f-4ee9-acbd-8d855515a097,WV,12/16/2019,113,4012,22307,5.3,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+219ce050-f039-43c8-96f6-ece879f7f013,MA,8/16/2019,609,37164,122605,5.5,0.03,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+22,WA,6/29/2012,25,427,6190,2.8,,West,Rural,Critical Access Hospital,Hospital
+223,OR,5/17/2014,307,16013,48054,4.9,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+223eae0c-4877-4ff5-81d4-2b79c398ffa7,VA,6/9/2018,227,12624,83377,5.2,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+22a0bb2b-5664-4d37-bb8c-12d3bdfb5bbe,CA,6/4/2016,60,9046,7915,4.9,0.04,West,Urban,Short Term Acute Care Hospital,Hospital
+22c72bac-af34-4b3d-9b9b-d025e617830e,MA,4/7/2018,93,5246,21472,4,0.02,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+23,WA,5/1/2012,107,4898,14727,3.5,0.17,West,Urban,Short Term Acute Care Hospital,Hospital
+23735d15-361d-452c-a28d-2aac686c6396,VA,6/19/2018,70,3274,32513,3.7,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+2392,OR,8/1/2014,25,1172,17604,3.1,0.01,West,Rural,Critical Access Hospital,Hospital
+23e458d6-4cd4-4532-9917-f2f36b6ec513,VA,6/9/2018,160,11788,72819,4.8,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+24,OR,6/8/2014,25,1692,13520,3.2,0.01,West,Rural,Critical Access Hospital,Hospital
+2419,OR,8/1/2014,169,7747,26698,4.5,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+2422,OR,8/1/2014,67,2606,29613,3.4,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+2424,OR,8/1/2014,25,893,11050,3,0.01,West,Rural,Critical Access Hospital,Hospital
+24288,OR,8/1/2014,25,1524,18460,3.6,0.01,West,Rural,Critical Access Hospital,Hospital
+245c3aa9-8a2d-46bf-a859-dfece6c14749,VA,12/10/2016,25,466,11254,2.2,,Southeast,Rural,Critical Access Hospital,Hospital
+246a6892-b0b1-4e90-bd56-55ad768b6704,ID,5/13/2018,25,1740,8556,2.9,,West,Rural,Critical Access Hospital,Hospital
+25,WA,7/21/2012,48,1431,10509,4,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+2521,OR,3/31/2014,29,2954,28500,2.8,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+252e15a0-f067-4644-bbec-e3e7b4859448,WV,3/26/2017,70,,,,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+253390f2-b8da-49ac-8845-ae0ede6e49cd,NM,11/15/2018,162,5105,148809,3.9,0.01,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+26,WA,6/2/2012,176,11387,33755,4.1,,West,Urban,Short Term Acute Care Hospital,Hospital
+260,OR,7/8/2014,23,471,2706,2.7,,West,Rural,Critical Access Hospital,Hospital
+260b6516-5a0e-45e3-94d3-b3c721474c02,VA,6/9/2018,,,,,,,,,
+2640,OR,8/24/2014,25,1558,17322,2.5,0.03,West,Rural,Critical Access Hospital,Hospital
+26f6e9a7-47a0-4238-85f7-d5f1a4478f53,NM,5/30/2017,25,117,5180,3.3,,Southwest,Rural,Critical Access Hospital,Hospital
+27,WA,10/3/2012,25,138,1471,2.5,,West,Rural,Critical Access Hospital,Hospital
+28,WA,7/14/2012,267,9708,37821,5.7,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+289f3001-6cdf-4baa-9530-9ee225a0d735,CA,7/26/2018,298,19702,46123,4.2,0.04,West,Urban,Short Term Acute Care Hospital,Hospital
+29,WA,6/8/2012,12,33,876,3.2,,West,Rural,Critical Access Hospital,Hospital
+29387c60-ab82-4ac2-bba4-e0bda3e09ef0,WV,11/16/2017,230,11491,52713,4.4,,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+29561203-ce53-451d-a130-2cb2ecbb0c45,ID,7/16/2018,25,1164,7625,2.6,,West,Rural,Critical Access Hospital,Hospital
+297c7763-38b2-4572-9493-146b953b6beb,VA,5/19/2017,30,1205,18308,3.4,,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+29bd1c03-5319-439b-8bb5-2f0688049fbb,UT,3/2/2017,216,8691,51856,4,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+29cf8c0e-1b35-4da6-b633-5306abb6efc1,CA,1/25/2019,20,168,614,4.4,,West,Urban,Critical Access Hospital,Hospital
+2a0f4c0d-2924-46c6-b5c9-6b99b46868ea,WV,5/29/2017,49,1350,14675,5.1,,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+2a8ddd63-f791-42a4-8af0-8c5297cdd703,VA,6/14/2018,300,11419,63148,4.8,0.02,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+2aa4d214-2965-4e6e-858f-25a8733ec73d,CA,6/18/2017,,,57087,,,West,Urban,Short Term Acute Care Hospital,Hospital
+2af6ff7b-c401-4274-8f1f-be4ca2cdde79,CA,2/18/2017,523,17856,69021,4,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+2b3184ae-2bbd-45de-8792-948c6c6348d7,UT,4/1/2020,,,,,,,,,
+2bc42d7f-1f59-42ef-bd23-f24c39ccc299,NH,4/8/2018,25,1002,7974,3.2,0.02,Northeast,Rural,Critical Access Hospital,Hospital
+2c2af1f6-cfdc-11e3-8158-bb81531f9ebd,OR,6/1/2014,1118,29175,48955,6.1,,West,Urban,Health System,Health System
+2e00683e-6856-4764-a84b-5812a5146957,WV,4/18/2017,90,2705,28660,3.5,0.01,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+2e0fe10a-fdd2-4d44-98a0-19a0d6632936,MA,4/25/2017,46,2654,22907,3.4,0.02,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+2e281a1b-f6c9-4571-97df-4afd0d9ee505,CA,4/25/2016,169,10580,92819,5.6,0.07,West,Urban,Short Term Acute Care Hospital,Hospital
+2e3e6e7f-c227-472d-9f43-e19da4a5107e,OR,4/1/2014,25,1228,9075,3.2,,West,Rural,Critical Access Hospital,Hospital
+3,WA,10/9/2008,612,28060,87873,5.5,0.05,West,Urban,Short Term Acute Care Hospital,Hospital
+304b6710-c961-44b3-8e30-b608e49e0f63,NH,9/8/2018,25,1230,15419,3.1,,Northeast,Rural,Critical Access Hospital,Hospital
+31,WA,7/23/2012,25,204,5817,3.1,0.02,West,Rural,Critical Access Hospital,Hospital
+316223e5-c88a-4c0a-a6a9-4ae310f5fede,AK,10/2/2017,8,126,751,2.9,0.01,West,Rural,Critical Access Hospital,Hospital
+317f6065-15bb-4c91-a115-518a44863fca,CA,3/13/2016,337,9358,54577,7,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+31899,WA,10/20/2013,10,82,3048,2.8,0.01,West,Rural,Critical Access Hospital,Hospital
+319a5d19-1aec-4aee-b95a-8cc8d0599c64,OR,8/24/2015,44,1934,13862,2.8,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+32,WA,7/2/2012,25,68,1791,2.8,,West,Rural,Critical Access Hospital,Hospital
+320f4814-854f-4219-b666-414bbff2f626,VA,6/8/2018,110,5256,42410,4.2,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+322,OR,9/6/2014,15,173,14056,3.3,,West,Urban,Critical Access Hospital,Hospital
+322a8918-5656-44e8-b211-9d59b7790c79,NH,9/6/2018,86,3504,24251,5.4,0.02,Northeast,Rural,Short Term Acute Care Hospital,Hospital
+32641,OR,10/28/2014,122,8367,29736,2.4,,West,Urban,Short Term Acute Care Hospital,Hospital
+33,WA,6/5/2012,25,25,611,1.6,0.02,West,Rural,Critical Access Hospital,Hospital
+33b930d1-d208-4278-8c3f-ff5fd1ddeab4,UT,3/6/2017,472,32440,50869,5,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+34,WA,6/11/2012,49,3368,24153,4.4,0.06,West,Rural,Short Term Acute Care Hospital,Hospital
+346c4c52-aea8-424f-8d35-fa9785c0ef97,ID,4/22/2019,110,4134,32868,3.6,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+34e2b397-177a-4ec7-888a-69f8fc2a0e9c,AK,1/23/2019,122,4467,36915,4.7,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+35,WA,3/25/2012,283,16892,77102,5,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+350f8752-486f-426d-a344-359e5c1cdb9b,MA,7/13/2019,216,8346,62058,4.1,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+3546,OR,10/28/2014,16,464,5080,2.9,0.01,West,Rural,Critical Access Hospital,Hospital
+36,WA,11/7/2011,129,9118,59388,3.1,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+365111c1-b26c-481c-8dfd-c798a723f37d,ID,5/12/2018,297,14592,45594,4.7,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+3667a87f-1753-4fcd-b0d5-729f4ba4c299,VA,5/20/2018,295,13441,68227,4.1,,Southeast,Urban,Health System,Health System
+3679a10d-2bc0-4fa2-9ea7-0c0ddecf1c0c,CA,4/18/2017,37,2715,18016,4.7,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+36edac96-5a1c-448b-8e9a-c5d14304d8d8,CA,9/11/2017,25,1417,15059,4,,West,Rural,Critical Access Hospital,Hospital
+37,WA,8/21/2012,321,14474,59173,7.7,0.08,West,Urban,Short Term Acute Care Hospital,Hospital
+376189f2-59d6-42bd-a713-03f0344152d2,UT,9/4/2018,32,1475,12399,3.4,,West,Rural,Short Term Acute Care Hospital,Hospital
+376bcc9d-d8e5-49be-80ec-3d411eaa1aad,MA,5/18/2018,10,,,,,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+376d83da-9810-4ca7-92a5-fd3865739c92,OR,2/23/2014,111,4173,31608,4.2,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+3771cc43-0855-456d-bb28-98f005186270,VA,6/2/2018,421,21772,77401,4.9,0.03,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+37792e2a-2dc3-41a0-9bbb-c448dcc641db,WV,3/26/2017,424,,,,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+37b5b8de-f547-45fe-9edb-2d98a3662b1d,AK,10/30/2017,45,1647,14894,4.1,0.02,West,Rural,Short Term Acute Care Hospital,Hospital
+38,WA,6/11/2012,298,21249,83603,3,0.03,West,Rural,Short Term Acute Care Hospital,Hospital
+385e38e8-e957-4170-9bf8-c8200e9aa1b7,UT,3/25/2019,91,5231,59794,3.5,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+38796b5e-6e89-459b-bbda-16c8c2b434d1,MA,4/7/2018,175,9118,114432,4.1,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+38b714c5-1289-49bf-a820-497daa9435cc,VA,6/12/2018,34,1701,16654,3,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+39,WA,9/25/2012,43,2602,16339,3.1,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+3b230ee1-6c1c-4288-8408-7ec1eeae9cca,OR,8/25/2015,21,730,7067,2,,West,Rural,Critical Access Hospital,Hospital
+3babb343-9598-4eb6-a52f-cb70431bb806,CA,4/29/2018,106,3218,4565,3.3,0.05,West,Urban,Short Term Acute Care Hospital,Hospital
+3bad963f-3716-4026-917b-54e701b63a50,MA,3/20/2017,399,25816,127939,5.4,0.08,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+3bf7d4d5-39e9-42dd-a7c0-44f1c22931f0,NM,5/30/2017,24,338,10839,3.1,,Southwest,Rural,Critical Access Hospital,Hospital
+3c2aa833-dec8-40a7-b4ff-f1869e4e4167,MA,8/22/2018,19,444,9560,4.9,0.01,Northeast,Rural,Short Term Acute Care Hospital,Hospital
+3c9f1521-3315-4158-bb21-651a9f04184b,NM,4/6/2017,6,1335,16078,3.7,0.05,Southwest,Rural,Critical Access Hospital,Hospital
+3cbcffe3-e87e-4d77-a89b-72117f6e30e7,AK,1/17/2017,24,521,6589,2.6,,West,Rural,Critical Access Hospital,Hospital
+3d161364-42d9-4faf-978b-cf23c9a4ad9c,NH,4/9/2018,16,165,4226,3.5,,Northeast,Rural,Critical Access Hospital,Hospital
+3d65d494-d74d-45f5-93bd-0facc7e42d58,VA,6/20/2018,,,,,,,,,
+3d95375d-af53-4494-accb-a851ea57a56c,ID,2/16/2020,297,14592,45594,4.7,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+3e620d01-f84b-4448-b827-f6628168db12,CA,3/23/2018,49,1832,16957,4.7,0.05,West,Rural,Short Term Acute Care Hospital,Hospital
+3e80d5ce-a769-499c-a33a-21e974a149fc,CA,4/10/2020,113,3875,30653,5.1,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+3e993989-dec0-472a-8605-307d4c3313bb,CA,,117,2401,8029,4.5,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+3f622002-9eaa-463f-be0c-8bd27634d736,UT,3/26/2019,16,424,5181,2.4,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+4,WA,1/24/2010,331,20432,79707,3.5,,West,Urban,Health System,Health System
+40,WA,6/14/2012,25,1405,16628,3.1,,West,Rural,Critical Access Hospital,Hospital
+4016a0c1-326e-4be2-ae20-1f931d8beac3,VA,5/17/2018,141,3263,18077,3.5,0.02,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+402137ab-36e5-4af2-badb-1218b3726d85,CA,4/11/2016,227,10600,56017,5.1,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+404b1e98-8ff9-42da-a012-9e1c62140627,MA,8/16/2019,21,573,14184,3.7,,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+40c99724-5af5-4cf1-91a5-0ce60c83cb5e,CA,1/20/2019,328,15307,19085,4.4,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+41,WA,12/12/2011,111,5406,75271,3.8,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+410,OR,8/4/2014,24,387,3598,2.5,,West,Rural,Critical Access Hospital,Hospital
+41737ae9-6de0-4708-bab5-fb97cbdfcaa1,VA,9/29/2019,2561,121276,511807,4.9,,Southeast,Urban,Health System,Health System
+41782df2-c363-4296-80c0-da047685a112,NH,6/13/2018,25,699,11774,3.2,0.01,Northeast,Rural,Critical Access Hospital,Hospital
+41bfe02a-d414-47b7-9a32-a1310e0adf3c,CA,4/9/2019,202,10129,44999,4.7,,West,Urban,Short Term Acute Care Hospital,Hospital
+41e6a1b4-1554-464c-9c4f-5f16d029fa71,VA,6/19/2018,124,1662,10653,3.4,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+4207e68e-5e77-4e8a-9274-eefcdcae22ed,VA,6/5/2018,101,1622,31708,6.2,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+4211bd6f-6e13-4f8e-a1b1-c056fb172c76,WV,7/21/2018,25,191,4306,3.8,,Southeast,Rural,Critical Access Hospital,Hospital
+4230a0d1-b656-4568-8c8c-8b6b3499ddb0,MA,6/2/2018,,,,,,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+4268e3ca-d875-46c9-a961-69de69a728f9,VA,5/20/2018,97,4674,19950,3.8,0.03,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+428,OR,8/21/2014,421,24827,105926,4.6,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+43,WA,12/14/2011,258,16318,85559,4.5,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+4323a591-f6b6-47fe-b076-e505b23cae8b,MA,7/2/2017,,,,,,,,,
+44,WA,1/1/2012,25,956,13579,2.4,0.02,West,Rural,Critical Access Hospital,Hospital
+4404a954-e7c6-4a60-9142-8865e975e83c,MA,8/19/2019,,,,,,,,,
+441f77b5-dc4c-411d-9a9a-21e574b553b8,CA,9/10/2017,142,9455,116983,5,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+4456,OR,7/21/2014,21,49,940,2.9,,West,Rural,Critical Access Hospital,Hospital
+44d3e053-7be6-45b7-8899-b8520a2f7b5b,NH,4/8/2018,25,602,5810,3.2,,Northeast,Rural,Critical Access Hospital,Hospital
+45,WA,1/15/2013,14,138,4933,2.8,,West,Rural,Critical Access Hospital,Hospital
+45476f66-c6af-423d-b33e-1485bb5a2ba4,WV,3/26/2017,822,40662,110999,5,0.02,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+46,WA,10/10/2012,25,505,4892,2.6,,West,Rural,Critical Access Hospital,Hospital
+46066154-dc17-4b13-9cd6-51557f16ec74,CA,9/10/2017,144,6574,32232,4.1,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+463c9c2c-f548-45f9-82e3-d4c950cafc4d,MA,7/3/2017,114,4321,37252,4.5,0.02,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+4666f26d-ce7c-41d4-8eba-193d15ade215,CA,3/1/2018,318,12692,61354,4.2,,West,Rural,Short Term Acute Care Hospital,Hospital
+467de8e5-5b32-43c4-a8d9-6ca9ceb85e2d,NM,12/2/2017,61,2157,28698,3,0.02,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+47,WA,6/25/2012,25,322,5003,4,,West,Rural,Critical Access Hospital,Hospital
+474790d6-ce82-4558-841b-75f3ee7befbc,CA,5/20/2018,167,6551,28313,3.7,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+476,OR,5/28/2014,38,1315,9200,3.2,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+47728b7b-e76a-4002-b7bd-e500bf822a5a,CA,8/30/2016,25,1299,14870,3.5,,West,Rural,Critical Access Hospital,Hospital
+48,WA,12/12/2011,25,2279,40472,2.2,,West,Rural,Critical Access Hospital,Hospital
+49,OR,3/28/2014,93,9366,50704,2.4,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+49315a30-4f27-42a1-b209-81a6dff4e93e,MA,8/16/2019,,,,,,,,,
+4971d496-f984-42b0-b16f-f7c3415a902e,NM,6/2/2017,162,6772,50263,4.8,0.01,Southwest,Urban,Short Term Acute Care Hospital,Hospital
+49981bf2-29a9-4399-9169-12d8c339b5f8,NM,6/15/2017,185,10031,51697,4.4,0.02,Southwest,Urban,Short Term Acute Care Hospital,Hospital
+4a0877fe-dece-4b52-80c2-83e22afabe39,NM,6/27/2017,28,2368,19969,3.2,0.03,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+4a97003d-b9b2-4874-8de5-c964b51c0d09,UT,3/27/2019,18,245,2833,2.9,,West,Rural,Critical Access Hospital,Hospital
+4ae4451d-1400-42c9-8eab-691ec4028fd1,CA,6/15/2020,,,,,,,,,
+4af82406-8369-4d02-81a3-8a9c71657142,OR,5/25/2015,113,9199,50489,3.2,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+4b09ae08-cf4b-4659-a8de-8c5038465e5f,CA,6/24/2019,,,,,,,,,
+4b20e08d-b4ec-4949-92b4-d70e01786fca,NH,11/26/2017,25,501,12398,3.1,,Northeast,Rural,Critical Access Hospital,Hospital
+4bf0b1f9-6fff-467f-87d4-822a1cfbc391,WV,9/7/2016,330,15325,58730,5.9,0.03,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+4c1e8a3f-a94c-42c2-8aaf-b387ab866284,CA,7/27/2018,25,1798,17789,2.6,,West,Urban,Critical Access Hospital,Hospital
+4c9c280a-7f84-41ad-bf56-7aaeaa5ec131,CA,9/10/2017,,3795,34346,3.9,,West,Rural,Short Term Acute Care Hospital,Hospital
+4de01d65-0b7f-4b7c-86fb-9bc6016e6cb6,VA,6/9/2018,145,10844,63689,4.2,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+4e08779c-5560-4d40-a3ad-c258f9ed785f,NM,3/1/2017,20,359,17710,2.6,0.04,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+4e750036-ba51-4aa4-8b37-77a7625b1876,VA,6/10/2018,25,1167,15257,3.6,0.01,Southeast,Rural,Critical Access Hospital,Hospital
+4ea92fe9-5450-4c4c-9347-d18e54ee74db,CA,9/26/2017,320,12063,82071,5.2,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+4f13cf0b-de08-4faa-b668-9780fef5f2aa,WV,2/18/2020,223,10237,51253,5.1,0.04,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+5,WA,6/24/2012,184,7955,65736,4.7,0.05,West,Urban,Short Term Acute Care Hospital,Hospital
+50,WA,1/5/2013,166,15519,69573,3.7,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+5004e308-096d-409f-b5a6-5379e671ba2f,CA,6/18/2017,77,3405,38976,3.5,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+5005af81-6246-43dc-8ce1-31b679e2b4ea,VA,6/20/2018,105,6000,17991,3.6,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+5079,OR,10/22/2014,302,19415,58379,3.3,,West,Urban,Short Term Acute Care Hospital,Hospital
+509820f4-de7b-4aef-81e6-f23b099c754b,CA,10/13/2019,75,2001,15389,3.7,,West,Urban,Short Term Acute Care Hospital,Hospital
+50c868bd-00d6-474d-9246-f27bc5328d22,CA,9/28/2018,317,12157,33041,4.8,,West,Urban,Short Term Acute Care Hospital,Hospital
+50e9a6f1-5d2b-4fe5-8f10-c4ab950c937e,WV,8/12/2016,25,181,7934,3,0.03,Southeast,Rural,Critical Access Hospital,Hospital
+50f99f18-2240-47cf-8488-8d5b5d893ee2,WV,4/18/2017,12,33,7386,3,,Southeast,Rural,Critical Access Hospital,Hospital
+51,WA,3/26/2012,75,,42347,,,West,Urban,Childrens Hospital,Hospital
+513ba487-591c-453f-925f-41f255f1ec47,UT,3/1/2017,478,25975,84845,4.6,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+52,OR,8/15/2014,43,1713,16971,3.7,0.03,West,Rural,Short Term Acute Care Hospital,Hospital
+5253,OR,10/26/2014,140,7301,48249,3.7,0.03,West,Rural,Short Term Acute Care Hospital,Hospital
+52f2b134-ce45-44cb-8093-1c4fa4e5d96c,MA,4/4/2017,186,11933,48590,3.9,0.04,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+53,WA,5/22/2012,25,183,5333,3.1,,West,Rural,Critical Access Hospital,Hospital
+5318,OR,6/15/2014,48,2750,22470,3.3,0.02,West,Rural,Short Term Acute Care Hospital,Hospital
+5322,OR,5/9/2014,50,3440,25690,3.3,,West,Urban,Short Term Acute Care Hospital,Hospital
+5325e907-4906-4f2d-8b70-d582cf773d5a,VA,10/17/2018,,,,,,,,,
+53c2e3a4-1976-4516-b672-f2df7f1aec22,VA,6/20/2018,,,,,,,,,
+54,WA,6/26/2012,25,690,8354,2.5,0.01,West,Rural,Critical Access Hospital,Hospital
+544a2d35-6e58-4477-a19a-cceda18410e3,WV,9/4/2019,300,11220,49101,4.7,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+55,WA,6/24/2012,20,471,6886,3,0.02,West,Rural,Critical Access Hospital,Hospital
+55506e3e-9f70-4dc3-b823-b3fea02d2e81,CA,5/15/2017,84,,,,,West,Urban,Short Term Acute Care Hospital,Hospital
+559962b7-bd33-48ce-b0a0-6c991ea3276d,UT,3/2/2017,289,13231,44324,5.3,,West,Urban,Childrens Hospital,Hospital
+56,WA,7/25/2012,21,326,2908,2.9,,West,Rural,Critical Access Hospital,Hospital
+5621,OR,3/28/2014,117,9366,37289,3.3,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+57,WA,8/13/2012,179,10515,54602,3.9,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+579478a2-7b29-4657-97b3-c3f840299290,NM,2/14/2018,168,9795,42703,4.7,0.01,Southwest,Urban,Short Term Acute Care Hospital,Hospital
+58,WA,6/8/2012,25,402,7011,2.6,0.01,West,Rural,Critical Access Hospital,Hospital
+5887d859-2cf5-4d69-8342-ffe4ecf3a9ac,NH,4/27/2018,206,12480,62966,4.5,0.03,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+58b1d764-af6b-42d6-b8ad-eb491f054f6a,VA,6/2/2018,,,,,,,,,
+59,WA,5/12/2012,16,598,6003,3.2,,West,Rural,Critical Access Hospital,Hospital
+59e9085c-f303-4e19-9c1c-c223444a4104,UT,3/27/2019,19,141,1397,3.1,,West,Rural,Critical Access Hospital,Hospital
+59fb4069-6848-41f3-a929-ba896e317d27,WV,12/10/2016,25,336,7745,2.1,,Southeast,Rural,Critical Access Hospital,Hospital
+5aebc48f-41a0-4ecd-860e-504d31112f0b,CA,9/6/2016,95,3578,17586,3.7,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+5aec49e7-347c-45db-b8aa-57e8838519f8,VA,6/8/2018,,,,,,,,,
+5b97a52f-7eb4-4b74-9c72-06614ae996df,AK,1/17/2017,6,94,5567,2.5,0.02,West,Urban,Critical Access Hospital,Hospital
+5c1cc596-74fd-4c8e-bbd8-62f2b380381a,MA,4/7/2018,124,,,,,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+5d050da6-1639-4058-9c20-3be7b06d1b81,MA,4/4/2018,110,4478,37960,5.1,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+5dc9414f-3a28-4c21-8444-1afdacf163f2,CA,4/29/2018,82,3264,6562,5,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+5e5eb28a-1031-4de1-b44b-b2ca29a8f140,ID,2/26/2019,,,,,,,,,
+5f2e184e-c23b-4645-885c-8b080864644d,WV,11/17/2017,25,797,14892,2.6,0.02,Southeast,Rural,Critical Access Hospital,Hospital
+5f3eabea-7f52-4e91-951b-02aa118dbe6c,CA,,352,20911,49383,5,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+5f4830f8-6c85-460a-b552-09f4e8ca8be2,UT,3/24/2019,19,587,10527,2,,West,Rural,Critical Access Hospital,Hospital
+5fbfcd53-8bd8-4492-9f09-e924c8ddb58d,ID,7/16/2018,15,568,5278,2.1,0.01,West,Rural,Critical Access Hospital,Hospital
+6,WA,4/27/2010,286,19411,47820,3.4,,West,Urban,Short Term Acute Care Hospital,Hospital
+60863057-641c-48e1-a57b-5e3e42c84be7,AK,6/24/2019,164,6388,24820,5.4,,West,Urban,Short Term Acute Care Hospital,Hospital
+60ff71a3-d912-44ed-a784-84d10b65311e,WV,11/16/2017,146,7809,60287,4.5,0.02,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+612f7623-20fd-45cd-8265-ee4da616f3de,ID,7/15/2018,186,11406,38703,3,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+6174268f-de86-48ed-a778-e4526b24664c,CA,2/18/2017,409,19280,69955,4.2,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+62,WA,9/18/2012,78,4454,30925,3.4,0.04,West,Rural,Short Term Acute Care Hospital,Hospital
+624470d6-8100-431b-9aa9-c9e751d48151,NM,12/15/2017,82,2050,28388,3.4,0.02,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+63,OR,2/24/2014,25,1559,10975,2.6,0.01,West,Rural,Critical Access Hospital,Hospital
+6392a61d-2e76-4046-b3f1-b2649b30f835,AK,5/29/2017,25,1257,9874,2.8,0.01,West,Rural,Critical Access Hospital,Hospital
+63ae6666-d6da-49e5-a162-169b5f0915ff,VA,6/7/2018,185,5615,51814,8.5,,Southeast,Urban,Childrens Hospital,Hospital
+64,WA,6/24/2012,25,946,8996,3.4,,West,Rural,Critical Access Hospital,Hospital
+65,WA,1/4/2013,25,876,751,2.6,,West,Rural,Critical Access Hospital,Hospital
+65d792b1-4eef-4133-a35b-c3f38f023ce1,MA,5/2/2017,364,16749,45320,5.5,0.02,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+66,OR,2/22/2014,342,18403,67793,5.3,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+66641b35-d203-4db2-83d2-b1a86b77f122,UT,3/4/2017,170,7639,39334,4.1,,West,Urban,Short Term Acute Care Hospital,Hospital
+66848a21-6bea-4734-8a37-10dfce49f186,MA,5/18/2018,58,,,,,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+67,WA,12/15/2012,25,1269,12036,2.7,,West,Rural,Critical Access Hospital,Hospital
+670b0691-244f-43c3-95bb-683b0f8d79b1,CA,9/10/2017,182,8990,40073,3.8,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+68,WA,9/26/2012,,,96929,,,West,Urban,Short Term Acute Care Hospital,Hospital
+68140ad8-d599-46fa-8cd7-39b8065e21ca,NM,5/30/2017,140,,,,,Southwest,Urban,Short Term Acute Care Hospital,Hospital
+68386574-68c8-481a-942d-16c95536774b,MA,8/16/2019,125,7390,71879,4,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+68be076e-f136-4607-8600-a4d0bf9b78cf,CA,1/3/2018,65,1188,6964,4.5,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+68ca1c9c-3ae6-40f1-997b-0c1dc88830f9,CA,10/22/2018,318,18083,74323,4.3,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+68cf9309-1cc1-4e14-800e-9809dfa23c8f,MA,12/27/2016,131,7175,51735,4,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+68e33909-4ab4-4777-87b7-d819304848c9,VA,6/14/2018,466,,142881,,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+68f8a711-96d5-4793-81d9-cb4cfd2bbf94,VA,6/17/2018,46,2622,16529,3.4,0.01,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+69,WA,6/24/2012,23,312,4979,3.5,,West,Rural,Critical Access Hospital,Hospital
+6954a7c6-543c-4ca3-8b4c-cb20b087b215,VA,6/18/2018,95,1494,24019,3.7,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+697,OR,4/14/2014,25,1602,12182,2.7,0.02,West,Rural,Critical Access Hospital,Hospital
+6990265c-5476-4ec8-b0a3-44286f7f628d,UT,3/19/2017,100,2697,26044,3.3,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+6ace6303-ca02-4678-abf9-32752bf8e0f0,VA,6/22/2018,60,2587,22288,3.4,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+6adfbc4f-dd9c-47a2-b7bb-5c7df5d78b94,MA,4/6/2017,,783,14881,2.6,,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+6b0b82c3-8154-4432-98d9-68a9e6b98585,NM,11/12/2018,32,1033,18812,4.3,0.01,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+6b72126e-3b3a-42bc-acd8-c7f384b2c36e,CA,3/28/2018,,,,,,,,,
+6c25acd9-a144-44e0-85b9-d86cb5e65a4c,MA,8/11/2017,114,4009,28559,3.9,0.02,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+6c649460-9f61-4aa6-b14f-c52ee40fd53f,VA,6/26/2018,305,22172,70445,4.4,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+6cb782c7-d386-4f0f-968b-525d33a980bf,WV,11/16/2017,605,29374,37746,6.5,0.04,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+6dabd8d3-2d0b-4721-b1fa-758ec08bad0f,CA,8/24/2020,133,13372,34245,3.4,0.16,West,Urban,Short Term Acute Care Hospital,Hospital
+6e0d4193-f512-4b64-bc1e-8a05aedcd644,MA,10/2/2017,237,13412,72888,4.1,0.02,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+6e2402eb-25a4-4f31-9c1f-dde652cdaf31,MA,4/5/2018,149,8219,52383,4.1,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+6e57a189-7c60-4c0d-bc87-0936a392b62f,VA,6/11/2018,140,5556,39214,3.9,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+6e98bb02-d530-4668-9708-a6702d3543da,CA,7/30/2019,53,4309,,3.3,,West,Urban,Short Term Acute Care Hospital,Hospital
+6f6cf7b6-8438-4042-a022-86c8552697a8,NM,3/24/2017,50,3103,30549,3.4,0.02,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+7,WA,6/4/2011,178,6996,43798,3.9,0.02,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+70,WA,6/9/2012,166,8542,46940,3.8,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+706005e9-de7a-4859-b0d4-7848c681a579,VA,6/21/2018,,,,,,,,,
+706ba474-b867-480c-a895-4d5722783703,CA,6/14/2020,,,,,,,,,
+70fd2e32-92ab-41cf-89fb-11fe2daa049a,VA,6/25/2018,,,,,,,,,
+71,WA,6/6/2012,436,19767,39859,4.5,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+714fa82b-a044-4c09-beec-e42fc821ef5d,UT,3/29/2019,18,380,7810,2.2,,West,Rural,Critical Access Hospital,Hospital
+71ced68b-d11f-4bc6-b66b-f78efd265648,VA,6/18/2018,340,21157,102118,5.2,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+71ced81b-719e-4d14-b597-c65c4992bdd9,NH,12/2/2019,25,759,7317,3.5,,Northeast,Rural,Critical Access Hospital,Hospital
+71d23b6a-ea9b-4c08-914f-91213749a4f7,MA,4/6/2017,82,2350,28316,5.2,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+72,WA,12/14/2012,25,1963,11657,3.4,,West,Rural,Critical Access Hospital,Hospital
+7229215e-e1de-4be6-9fbe-52c8a946d422,CA,6/17/2017,84,5603,28624,5.1,0.06,West,Urban,Short Term Acute Care Hospital,Hospital
+73,WA,8/20/2012,361,10731,,9.2,,West,Urban,Childrens Hospital,Hospital
+73047be2-c70a-4991-84ca-b493f18c613c,WA,7/5/2016,11,459,5350,2,,West,Urban,Short Term Acute Care Hospital,Hospital
+7361462a-23e0-44e5-bf15-64ca3ed32377,MA,5/19/2018,160,7544,54176,4.4,0.03,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+73849341-d4fb-480f-aaaf-4dee6cd38d9f,CA,6/16/2018,493,26020,79170,4,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+73ba2de9-ff46-4a0f-8b41-50788e0c4e81,NH,5/4/2020,25,607,6495,3.1,,Northeast,Rural,Critical Access Hospital,Hospital
+74,WA,8/5/2012,178,10467,51789,4.7,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+74515075-66a6-407b-9649-8d1d40a42064,MA,8/21/2018,,,,,,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+7475114d-4903-4d32-913b-f1d3e92d8f61,MA,7/14/2019,,,,,,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+75,WA,5/11/2016,14,217,4215,2.5,,West,Rural,Critical Access Hospital,Hospital
+76,WA,7/16/2012,48,3163,20620,3.3,0.03,West,Rural,Short Term Acute Care Hospital,Hospital
+77593f8f-3503-4ebd-aeef-d55c5e055b13,VA,6/12/2018,,,,,,,,,
+7776d258-c221-438a-a3a5-4d614523bba1,CA,6/12/2019,25,797,9134,3.3,,West,Rural,Critical Access Hospital,Hospital
+78,WA,6/9/2012,207,15948,20773,4.1,0.04,West,Rural,Short Term Acute Care Hospital,Hospital
+780,OR,5/12/2014,14,320,12566,2.4,0.03,West,Rural,Critical Access Hospital,Hospital
+78d293cd-ea3f-4696-ad3b-14f4890c3188,CA,6/12/2017,241,10158,51613,5.1,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+793a3893-e362-4c34-b1e7-1b24d17dd739,NM,6/2/2017,55,,,,,Southwest,Urban,Short Term Acute Care Hospital,Hospital
+793dd253-e411-413d-97a0-ce68f0463c29,AK,7/12/2017,21,785,4841,3.2,0.01,West,Rural,Critical Access Hospital,Hospital
+794c0c52-4530-4806-a1e0-f3c725265246,NM,10/8/2018,36,1947,2635,2.9,,Southwest,Urban,Short Term Acute Care Hospital,Hospital
+7a033a3a-4b8b-4c47-be02-592475b53a36,WV,11/17/2017,25,1358,27842,2.8,,Southeast,Rural,Critical Access Hospital,Hospital
+7a53d32c-e609-4e02-9479-8dc9e407131e,UT,3/26/2019,40,,,,,West,Urban,Short Term Acute Care Hospital,Hospital
+7c384d22-3507-4aca-961a-68306f40b49a,VA,6/12/2018,75,1167,37892,3.5,0.01,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+7c93b1e6-62da-407e-917c-fadfe6b7c48a,MA,8/25/2018,118,5931,36922,4.2,0.01,Northeast,Rural,Short Term Acute Care Hospital,Hospital
+7cc9e4d8-66fb-4f58-9801-1a320589768a,VA,6/8/2018,115,7189,37226,3.3,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+7d71f863-0131-4d93-b566-94c0d2c6c498,MA,8/21/2018,804,42328,62008,6.6,0.01,Northeast,Rural,Short Term Acute Care Hospital,Hospital
+7e6253eb-a33d-4ee5-ac7d-9c94b65cdff2,CA,1/20/2019,185,7284,57569,4.4,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+7e7ba13c-a4c4-4a85-a7a3-787814b25cac,CA,9/10/2017,254,17389,74074,3.9,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+7e8ee49f-40c3-46d2-a5fa-cc147535e6c6,CA,9/10/2017,49,1838,28341,3.4,,West,Rural,Short Term Acute Care Hospital,Hospital
+7f33b0ee-6802-4897-8154-52540aebf037,ID,7/16/2018,,,,,,,,,
+7f64cba6-da1a-4c8e-9e1f-a110cd8bf559,VA,6/12/2018,70,745,14832,3.9,0.01,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+7f66c991-bfb4-4921-923b-a4dc65f8539c,VA,6/20/2018,,,,,,,,,
+8,WA,6/14/2011,10,303,2147,2.8,0.03,West,Rural,Critical Access Hospital,Hospital
+80,WA,12/4/2012,120,5751,21031,3.9,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+800078b3-b1da-406e-bfd9-96a8d2197911,CA,6/18/2017,39,2195,21938,3.6,0.03,West,Rural,Short Term Acute Care Hospital,Hospital
+80643769-35e2-4337-abae-e2b28494d6cc,VA,6/19/2018,92,1466,19900,3.7,,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+807dc179-5614-4777-a220-ae47fd068b60,CA,10/3/2017,25,672,9436,3.6,,West,Urban,Critical Access Hospital,Hospital
+81,WA,6/7/2012,25,39,4469,3.8,0.01,West,Rural,Critical Access Hospital,Hospital
+81674096-ab23-4507-bc5b-11fbea3021fc,CA,6/17/2017,419,15932,79292,4.9,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+818c9a54-2c28-496a-848c-d348c7e2e276,CA,7/26/2018,50,,,,,West,Urban,Short Term Acute Care Hospital,Hospital
+819b01e2-41a3-4047-855e-0b1819860d26,WV,11/5/2018,49,1152,23710,6,,Southeast,Rural,Critical Access Hospital,Hospital
+81e7dbd4-6c8f-486d-a9e9-421bdf165d3a,CA,2/19/2017,,,,,,West,Urban,Short Term Acute Care Hospital,Hospital
+82,WA,9/29/2012,137,8110,33911,4.6,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+820f2598-3eca-4bb8-9b2e-685650382c10,UT,3/20/2017,171,9346,80347,3.8,,West,Urban,Short Term Acute Care Hospital,Hospital
+8256d3f4-38c6-480a-90ae-76b9edc1bb82,MA,10/5/2017,328,34283,189781,4.6,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+83,WA,8/27/2012,25,1125,20211,3,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+84,WA,3/26/2012,353,17469,81392,6.2,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+844,OR,5/11/2014,40,1426,26965,4.8,0.06,West,Urban,Short Term Acute Care Hospital,Hospital
+85,WA,7/1/2015,25,1267,18198,3.4,0.01,West,Rural,Critical Access Hospital,Hospital
+85466987-f2b7-423e-81af-eda014c65105,UT,10/8/2017,87,5255,25565,3.2,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+85490ca1-eced-4f62-9134-d968ada99055,CA,4/27/2019,48,1022,10456,3.9,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+8558,OR,2/24/2014,40,2369,20068,3.7,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+85ac840d-7c29-476e-8a23-9fb71e3d86ee,VA,5/21/2017,2,18,7067,2.1,0.01,Southeast,Rural,Critical Access Hospital,Hospital
+85de1ce1-df10-4d83-b384-3dc67aaf3878,WA,5/20/2019,,,,,,,,,
+86,WA,7/21/2012,25,632,12539,2.7,0.02,West,Rural,Critical Access Hospital,Hospital
+8692aa2f-0bcc-437f-90bd-506c7263a2d4,CA,6/18/2017,47,1945,16029,3.2,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+86a2d100-befc-4c20-a0c0-7ce134f12701,MA,6/3/2017,407,18305,102160,4.4,0.04,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+87,WA,8/19/2012,436,19054,26994,6.6,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+877c3f85-29bb-4a1a-a996-75558b1fec63,VA,5/29/2018,310,19049,76661,4,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+8780702d-c253-49e2-a903-a898c780c340,CA,10/7/2019,304,9970,23036,4.3,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+88,WA,7/15/2012,27,1095,13065,3.5,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+885d21d1-a9ff-4dbf-8e2a-4ed5c63586b3,NH,3/6/2019,199,11833,57618,5,0.06,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+886d381f-ba2f-4ad8-958a-59a36f0d2748,ID,10/6/2017,25,1364,9781,3.1,0.01,West,Rural,Critical Access Hospital,Hospital
+88a23608-62c3-4d1a-b0ff-06d760dc08ae,CA,,133,3812,8330,4.7,0.05,West,Urban,Short Term Acute Care Hospital,Hospital
+89,WA,7/14/2012,123,5635,43491,3.9,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+89132ec2-aa53-4fdd-ad83-6d792e8ad2fd,ID,7/14/2019,18,350,3527,2.4,,West,Rural,Critical Access Hospital,Hospital
+892b4f32-9854-445a-9b69-bef608444117,UT,3/20/2017,170,4707,35181,4,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+8a034cb8-674a-45ef-8056-42a459317347,CA,4/29/2018,107,1817,3066,5.5,,West,Urban,Short Term Acute Care Hospital,Hospital
+8b657328-f0b4-4c12-b981-c1f70a48501b,CA,9/10/2017,25,1541,11459,4,,West,Rural,Critical Access Hospital,Hospital
+8bba77c3-6d2b-46b6-b8a0-1f0b0aa65e84,NH,,25,1002,7974,3.2,0.02,Northeast,Rural,Critical Access Hospital,Hospital
+8bbfbff2-8216-414f-acd7-997426777709,VA,6/8/2018,86,4023,37500,3.7,0.01,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+8bf67244-e253-4a0a-a680-094bfe6e9575,CA,7/8/2017,124,6412,57903,6.6,0.07,West,Urban,Short Term Acute Care Hospital,Hospital
+8c7f2a4c-3702-4479-b044-bd923fa88a12,NM,3/7/2017,60,2950,16453,4.1,0.03,Southwest,Urban,Short Term Acute Care Hospital,Hospital
+8d05d336-5136-400d-8cd0-e24bf1594bbe,UT,3/6/2017,124,3374,29547,3.3,,West,Urban,Short Term Acute Care Hospital,Hospital
+8d22d7b9-1373-4abb-8157-f62bd9d63061,ID,7/16/2018,18,359,5591,2.1,,West,Rural,Critical Access Hospital,Hospital
+8d542678-de53-4e37-b16b-ebf7bae97bfd,OR,2/11/2014,101,3288,43988,7.7,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+8e356c50-7172-4781-a699-1789a5035e56,VA,6/11/2018,334,14412,102442,4.7,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+8e7f81bb-5e12-41f8-8286-3a95e3b4cc21,UT,3/25/2019,164,15581,43677,3.6,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+8fc90841-7179-4780-ac10-d118e1071b45,CA,4/25/2020,,,,,,,,,
+9,WA,7/19/2011,25,1444,13466,3.3,0.03,West,Rural,Critical Access Hospital,Hospital
+90,WA,10/4/2012,311,16709,71661,4.7,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+902c6136-0041-428e-b0e8-f3dfc24d6d5a,CA,4/9/2019,156,3621,62216,4.9,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+91,WA,7/17/2012,211,12272,23374,5.5,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+9121391e-d35d-4bf9-933f-8b5b455b394f,CA,6/25/2017,281,15321,38302,5.1,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+92,WA,7/22/2012,25,1920,9026,2.8,,West,Rural,Critical Access Hospital,Hospital
+924ae4ab-63fd-487d-b85b-7a9cd4777e93,VA,7/11/2018,300,11419,63148,4.8,0.02,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+92bcda26-1d4f-46ce-a3c4-30bd724f0c70,MA,8/5/2017,123,5580,33416,4.4,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+92c2459b-1a5f-4ad4-8091-51f1d71d019c,VA,6/17/2018,67,2701,23519,3.8,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+93,WA,9/29/2012,10,245,2945,2.6,0.01,West,Rural,Critical Access Hospital,Hospital
+9303,OR,6/16/2014,19,321,3810,2.9,0.02,West,Rural,Critical Access Hospital,Hospital
+93d46ebd-5923-49b5-a3e6-124a549567d2,WV,,25,66,5865,2.6,,Southeast,Rural,Critical Access Hospital,Hospital
+94,WA,6/26/2012,25,506,2819,3.7,,West,Rural,Critical Access Hospital,Hospital
+942,OR,5/13/2014,21,1097,9199,2.3,0.04,West,Rural,Critical Access Hospital,Hospital
+943ba0f3-953d-4592-a09b-5e7ea5fa5c6f,WV,7/5/2020,25,190,5499,2.8,,Southeast,Rural,Critical Access Hospital,Hospital
+94c5c607-4e4a-4d60-8073-053e6f63cd1e,CA,12/5/2015,333,12965,67905,5.5,0.07,West,Urban,Short Term Acute Care Hospital,Hospital
+957d924e-55b5-405a-aab1-9454da6d7525,VA,6/9/2018,,,,,,,,,
+957dc5b3-f0aa-4d5b-b2c7-8e0e0fcf36ff,VA,6/9/2018,150,9789,49662,3.8,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+959409f7-0218-4470-8916-7485afeb158f,CA,7/31/2019,149,11677,59983,4.9,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+959b17b6-c6b1-498d-9f67-3ae183b84cf9,MA,10/5/2017,391,,,,,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+95ca61f6-967b-423a-845a-4f3d07cc136b,NM,12/30/2017,25,1630,18383,2.6,0.02,Southwest,Rural,Critical Access Hospital,Hospital
+96725655,WA,6/3/2013,45,1077,10659,4.7,0.03,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+969da89e-0680-4a1a-ad1f-fed49d2d399c,CA,6/18/2017,48,3038,25488,4.3,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+96efd9e1-53a4-4c9c-952b-2674e99603fc,VA,6/19/2018,,,,,,,,,
+974367b6-4be2-4cd6-a01a-2b4b92d2717a,MA,12/15/2017,694,39871,53581,5.8,0.02,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+975ef0de-c04d-4f4f-b715-6530972c8f8a,CA,4/29/2018,124,2890,16351,3.9,0.04,West,Urban,Short Term Acute Care Hospital,Hospital
+97ca7376-06f1-4c10-919d-99d3dc66b1d1,CA,6/19/2018,131,9301,62709,4,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+98,WA,8/5/2012,620,36115,120353,4.8,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+98ef60da-cad0-456d-ab46-64d1f6d09b78,VA,5/17/2018,,,42284,,,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+99,WA,6/26/2012,25,16,664,1.5,0.01,West,Rural,Critical Access Hospital,Hospital
+9969,OR,7/11/2014,14,319,3548,3.1,,West,Rural,Critical Access Hospital,Hospital
+99caac19-9445-48f5-adbf-f497a4912006,MA,2/20/2019,193,13247,36243,4.1,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+99f4859f-f677-4e77-8d2c-d6ee25a6d65a,NM,3/27/2017,10,212,2589,2.8,0.01,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+9a5e1ffa-1150-4c1f-bffd-35eafbbc18a2,VA,5/17/2018,151,3348,21203,3.6,0.02,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+9af1960e-e119-4bf2-84b6-9099cfa81db6,VA,6/18/2018,200,,,,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+9b9e9536-e44c-4746-a573-1168d1d7c117,CA,4/9/2019,208,5423,20454,4,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+9be97d88-623d-4ced-89d5-6f5c467c1ef1,NM,3/31/2018,199,10247,77258,4.2,0.01,Southwest,Urban,Short Term Acute Care Hospital,Hospital
+9c08332e-abe4-48b7-9eef-81ff25b5fc3c,CA,4/29/2018,167,5058,14516,3.9,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+9c2750c7-d6d9-47b2-928b-f8e99415e1dd,VA,6/8/2018,378,20006,72711,4.9,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+9e2c72f5-ec14-416d-97b2-ddf6bd13e50f,WV,11/15/2017,,2868,26963,3.3,0.01,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+9e6fa0f2-2b64-440a-a16a-4c6bbf58a6ab,OR,6/15/2014,25,598,13803,1.9,0.01,West,Rural,Critical Access Hospital,Hospital
+9f2b9676-e6c1-4dbd-87c0-76f4307210ae,CA,6/17/2017,106,3786,36858,4.8,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+9fa3f59d-180c-4eb7-af67-3559b161f61b,VA,6/10/2018,37,1353,20133,3.6,0.03,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+9fac224a-023c-455c-963b-2920f68d6847,CA,11/20/2014,316,17839,107443,4.6,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+a01c17a7-0715-4450-a558-211f9f774db5,VA,6/10/2018,621,34981,76630,5.1,0.02,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+a041cd05-68d1-4e09-85f2-8d45733badf4,VA,6/11/2018,182,10841,46134,4.1,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+a1146f5b-97f6-498e-8837-7c610ec80415,CA,9/9/2020,,,,,,,,,
+a20d4584-d074-43a2-a1e7-2bb06f19b0ac,NM,5/30/2017,,,,,,Southwest,Urban,Short Term Acute Care Hospital,Hospital
+a42804b8-4531-40c2-8997-c7188f2fe8db,UT,10/9/2017,315,17489,50364,4.4,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+a4a63631-2283-4f8c-a79a-742337af188c,VA,6/10/2018,56,571,10189,3.8,0.02,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+a4d8319d-4471-4dc7-8d33-6626c683206b,VA,5/20/2017,48,1288,14756,4.2,,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+a51eecf9-694c-4b51-883d-3cb3ff944516,NM,4/29/2018,46,1090,10076,3.4,0.02,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+a629aa01-3622-4812-bc45-1a4402ef9288,WV,9/1/2017,36,642,17172,14.9,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+a6eb0387-77a1-4018-a4a8-f74b810c5151,UT,3/25/2019,22,901,12126,3.9,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+a7266b7e-4319-4008-9e68-cc28b7e761d4,UT,3/19/2017,65,,39160,,,West,Urban,Short Term Acute Care Hospital,Hospital
+a76cc7ab-0c4c-4de6-91ce-2d6ca84892e6,VA,6/5/2018,215,9454,73370,4.8,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+a77a7f5b-43f4-42c2-a241-1f298c86c080,MA,10/5/2017,,,,,,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+a78b7b57-9898-4b03-8560-fd1b10d1dc8a,WV,9/4/2018,25,183,9711,4.1,0.01,Southeast,Rural,Critical Access Hospital,Hospital
+a79206ed-f075-43ba-9186-576c1676eb36,MA,5/18/2018,229,11884,51087,4,0.02,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+a7c41184-e93c-40a3-9921-f672078629c0,CA,6/18/2017,137,3123,42311,5,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+a87fd744-f0b3-4669-8ed4-598a578d4374,ID,7/15/2018,559,29364,105418,4.3,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+a8f309f7-ac98-4ef7-8361-3916b53d92ee,VA,6/25/2018,,,,,,,,,
+a91f937a-70f6-4039-8537-9b0f7f96076a,VA,6/14/2018,292,30197,112910,5.1,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+a950439b-cfc7-48e6-b430-3c5ac2c30acb,UT,,,,,,,,,,
+a95cca79-352e-4e47-bb82-9151078b6d3e,VA,6/20/2018,49,1055,11410,4.9,0.01,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+aa949ecb-88d6-411d-b918-3da55bd26cdb,CA,6/17/2017,523,24722,73773,5.7,,West,Urban,Short Term Acute Care Hospital,Hospital
+aacf55d0-3af5-4927-9dee-8ba82f87e07e,CA,2/7/2017,785,35170,49787,6.8,0.05,West,Rural,Short Term Acute Care Hospital,Hospital
+ac427e80-d987-4657-bab1-82f3c186910e,VA,6/8/2018,172,8431,110642,4.9,0.02,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+ad65143d-7455-49fd-b3f2-f3dc5810eae5,MA,5/20/2017,165,5655,52698,3.8,0.03,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+adf808cd-60e6-4f15-8fe1-2165be60397b,VA,6/9/2018,155,9784,77126,4.2,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+ae282bc2-963d-410c-bccb-87a3cf95b863,MA,8/25/2018,60,1085,,13.7,,Northeast,Urban,Rehabilitation Hospital,Hospital
+ae2cd793-5e0d-44a4-89e0-0f44ea149358,CA,9/10/2017,353,18937,60361,4.3,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+aeba1ef5-37b5-43d4-bc8f-b6363a8f0a04,CA,2/7/2017,163,,,,,West,Rural,Childrens Hospital,Hospital
+aeca998a-893e-43b2-8cc4-0fb763e996e8,CA,4/29/2018,291,8313,3672,5.5,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+af006f66-5561-4d99-b842-b11c31c2bc01,CA,5/4/2020,81,3385,14456,4.1,0.06,West,Urban,Short Term Acute Care Hospital,Hospital
+afc95b3a-1f0a-4310-a537-18b54d1daf04,WV,11/16/2017,232,12092,60596,4.7,0.01,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+b0275de2-a9ab-4d14-98aa-7b5d0fd8992e,CA,4/29/2018,205,6736,46893,4.5,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+b08dbcb7-85c4-4449-9dc1-c8b439145f67,MA,2/1/2018,390,27383,100204,4.5,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+b0d17f31-a065-4252-9b4e-7c98a910f3c2,MA,4/6/2017,705,38132,95700,5.5,0.07,Northeast,Rural,Short Term Acute Care Hospital,Hospital
+b120417b-4ed6-4a26-86e9-b250646ea02d,VA,6/22/2018,224,11081,106427,3.9,,Southeast,Urban,Health System,Health System
+b133f939-914b-4c98-bf9d-55452cce51da,NM,6/4/2019,,,,,,,,,
+b1a2a523-6b1d-415f-ba7e-246a35fdea0d,MA,5/18/2018,221,19620,36965,3.8,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+b30b954a-7f38-4cf8-be2b-97dbfcad14b7,MA,8/20/2018,304,15287,85097,4.6,0.05,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+b358282e-9e1e-4949-9832-298f42eeabd1,CA,11/20/2014,327,17980,77574,4.1,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+b4306e8e-fb78-4963-9a33-b2af2eff4a2c,UT,3/29/2019,24,886,6660,2.9,0.02,West,Rural,Short Term Acute Care Hospital,Hospital
+b56cba99-69ac-4ea5-a2f5-d2e84b352969,MA,8/11/2017,25,496,7410,2.4,0.02,Northeast,Urban,Critical Access Hospital,Hospital
+b593c723-a42b-4c1c-83a3-8155293c0938,WV,12/10/2016,14,281,8648,1.9,,Southeast,Rural,Critical Access Hospital,Hospital
+b5a42644-a8c6-4a45-8109-a304b2754c02,ID,4/1/2018,100,5637,41302,3.9,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+b5af7e1a-5804-4e16-84db-a391bad6c4ff,VA,6/24/2018,,,,,,,,,
+b61141ba-ba95-48e3-be9c-f1b23fbbee10,CA,2/8/2017,,,,,,West,Urban,Short Term Acute Care Hospital,Hospital
+b6805132-2093-45ac-be0a-5c05719f98ee,VA,5/16/2018,585,28190,57081,5.8,0.03,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+b8571ae3-0d7c-4174-b0fe-66a0a4588b91,CA,4/29/2018,112,5235,23564,2.9,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+b8663b67-719a-4d47-b4a4-6b44645f2c0a,WV,3/10/2017,349,15786,54790,5.7,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+b9a22ee2-4e58-4255-9b23-457b826ff28f,VA,6/19/2018,227,,,,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+ba037c7c-5a6b-4025-afd4-b84a491e33f4,CA,2/28/2019,222,10057,36775,5.1,,West,Urban,Short Term Acute Care Hospital,Hospital
+ba8f47e2-3ac7-4808-ae59-3d8e9fd4f473,UT,3/12/2017,17,416,6329,2.8,,West,Rural,Critical Access Hospital,Hospital
+bab9f3bf-6c99-4bf9-b469-a6f5bbae0bab,CA,,342,14085,40139,4.3,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+bac36786-4671-4f80-9bc2-b64d81b36980,CA,3/3/2017,152,6423,28295,4.6,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+bb846e51-08e4-4ec8-a6c8-c3c7e2b97f8e,CA,1/6/2017,284,15244,94441,5.7,0.06,West,Urban,Short Term Acute Care Hospital,Hospital
+bcf3ac04-583a-4f71-8704-6e523e2c4589,MA,8/25/2018,25,981,14614,3.2,,Northeast,Rural,Critical Access Hospital,Hospital
+bd0fdf31-afac-4b41-8293-e921a6a24da9,AK,6/19/2019,174,8376,61555,4.6,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+bde3882a-9f9b-465f-b041-1c85837a793c,VA,6/9/2018,247,17404,71550,4.5,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+be0f0037-3197-4d06-b281-525c24cc4abb,NM,2/3/2017,34,892,13345,2.5,0.03,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+be8fb12c-f07f-4b50-9b41-519067d20174,CA,10/7/2019,84,3028,3492,4.2,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+bef91d91-0ccd-4b37-b585-545c507bcb01,CA,6/12/2016,145,6714,61748,4.3,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+c051c529-efe0-447f-b7b5-2c8ab3efc5a9,VA,5/21/2018,14,266,3578,3.6,,Southeast,Rural,Critical Access Hospital,Hospital
+c0ac83a8-a0c4-4311-a504-1da5e9dcb2bc,VA,,112,,,,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+c0b4ee15-bbf2-4ee4-8f0d-b4e9dfd0ab0b,CA,10/2/2018,503,27431,65831,4.2,0.04,West,Rural,Short Term Acute Care Hospital,Hospital
+c240b678-9e20-430c-a841-a38b1b062bbc,WV,10/10/2016,25,165,7560,3.3,,Southeast,Rural,Critical Access Hospital,Hospital
+c2830a5f-0910-49e8-ade2-db80f74a46dd,VA,6/8/2018,357,19462,70266,5.3,0.03,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+c3129207-88e3-4f5e-bf87-9035015f7d0b,VA,6/11/2018,25,818,11439,3.6,0.02,Southeast,Urban,Critical Access Hospital,Hospital
+c34ff815-f692-4dba-ad15-6ed2b34c4545,CA,1/22/2019,274,15879,,6.4,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+c3efdf35-c72e-456f-b3ce-75f41d15c873,UT,3/25/2019,247,15574,65750,3.4,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+c5c41cf9-8710-46b1-98bf-dbd6dd0cb5da,VA,12/10/2016,389,21150,68489,5.3,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+c723050d-51d6-42b7-b054-664744db348d,VA,6/9/2018,,,,,,,,,
+c78ba0de-9b91-4bf9-bfb0-618d2f11c1e4,NM,5/30/2017,52,2097,25135,3.8,0.01,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+c7bd90f6-2b0d-4bdc-b495-344463d1a2cf,ID,7/31/2018,21,256,3011,2.5,0.01,West,Rural,Critical Access Hospital,Hospital
+c8d9e0f8-cff6-4ffc-aa3b-ecc6f66102f4,NH,9/6/2018,25,405,10104,3.4,0.02,Northeast,Rural,Critical Access Hospital,Hospital
+c983b853-10bc-49c8-b808-038de39bee8e,MA,12/18/2017,149,8999,61534,3.9,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+ca839b11-53e0-4dee-8e7d-39a0cc1d1a1f,CA,5/15/2017,443,31135,93688,4.2,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+ca9fa3b3-c064-43e4-a3fe-0b769fb5911d,CA,3/22/2015,112,5070,28406,4.1,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+cb1d74e5-3458-4136-8038-ce7847379efd,CA,9/22/2018,317,12157,33041,4.8,,West,Urban,Short Term Acute Care Hospital,Hospital
+cbdbabe3-eb84-4dda-bc80-6d6ae2fc819c,NM,3/7/2017,451,22737,81620,6.7,0.08,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+cf38b04b-94e7-4c30-89b4-f6d166c5e1f3,AK,1/17/2017,11,148,2464,2.4,,West,Rural,Critical Access Hospital,Hospital
+d070682b-f3df-4b28-8f6c-4c8a8ee76494,AK,4/24/2018,12,101,947,2.9,,West,Rural,Critical Access Hospital,Hospital
+d11c863c-89e1-4e58-9eeb-dc1dd6d2fa42,WA,7/29/2020,,,,,,,,,
+d1ebb520-5c8f-4815-8fdc-7afd817af8ed,NM,6/3/2017,27,2011,13588,3.3,0.01,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+d33ff702-fc68-40e1-9ae3-133cf7fb9b4b,VA,6/25/2018,,,,,,,,,
+d3a2e592-70d6-4f79-8603-f833c575a833,CA,10/23/2018,250,11687,57121,4.9,0.04,West,Urban,Short Term Acute Care Hospital,Hospital
+d3aff103-7b4c-4cd9-8ccb-e0c4aa6a2fd5,CA,4/29/2018,148,9285,29008,4.4,0.09,West,Urban,Short Term Acute Care Hospital,Hospital
+d3bfd8db-a35f-4e43-a756-fec29ce4eb02,CA,7/30/2019,191,14933,74913,4.1,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+d47d4c4d-3a1b-4ce5-839a-ae6ce4c8d072,CA,9/11/2018,22,207,3555,3.2,,West,Rural,Critical Access Hospital,Hospital
+d4dc3785-4501-44bc-aa9a-52ba212a0aaf,CA,7/24/2018,77,3497,23333,3.1,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+d560952d-e813-4769-aa76-163e33ed3556,MA,8/20/2018,993,49506,113247,6.5,0.01,Northeast,Rural,Short Term Acute Care Hospital,Hospital
+d58118c2-8496-482a-9440-3247943d0cd5,CA,10/11/2019,109,3617,13124,4.2,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+d5832ed3-f901-4bc9-851b-beaf44cdedbf,CA,3/4/2017,134,6914,30738,4.9,0.07,West,Rural,Short Term Acute Care Hospital,Hospital
+d617bce1-c544-43d5-98c1-cb0d612054e9,CA,,98,4722,13767,4,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+d63c33f2-5007-4701-81eb-6d6991d9f9ec,VA,6/8/2018,358,26012,109024,4.8,0.02,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+d66e3f0b-aa5b-4071-8811-ff999e3af06e,WV,12/16/2016,25,1183,12363,3.3,,Southeast,Rural,Critical Access Hospital,Hospital
+d6e45e42-cc9d-4cee-a7c9-09a52b09a46f,UT,3/23/2019,130,5834,23061,2.9,,West,Urban,Short Term Acute Care Hospital,Hospital
+d7a6c2d4-26ee-4a7f-9b62-e88948a0e67a,MA,4/7/2018,267,15718,78076,4.5,0.02,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+d951d7e1-fb60-4eea-bf2e-1d7952481787,CA,9/25/2018,123,5749,21294,3.3,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+da177550-ff5f-414e-9092-d07a9a104879,NM,5/30/2017,25,1026,13302,3.2,,Southwest,Rural,Critical Access Hospital,Hospital
+da4724d6-cab6-4cf5-acf2-d44c89158b90,NM,5/30/2017,106,3562,32110,3.7,0.01,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+dba1e31e-6069-45ac-a3ef-d4589d65f238,VA,6/2/2018,90,4817,35473,3.5,0.02,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+dd394f4c-12fa-4aa9-9c35-63ae06fb1825,AK,4/15/2017,49,2525,16331,4.7,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+dd3b7cd8-c7be-4aa3-abac-f9f37106b3d1,NH,11/7/2017,239,11289,34779,5.6,0.04,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+dea5e4ba-d7bb-4bd1-897a-f6307773a084,VA,8/7/2018,107,3644,28313,4.2,,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+e0388ce0-46a3-46fe-bd9e-df3c2c7de563,CA,11/20/2014,186,5330,41842,4.6,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+e09ae5d6-0d70-4817-baca-56277fe1e43c,ID,7/16/2018,158,,,,,West,Urban,Short Term Acute Care Hospital,Hospital
+e0d17eeb-af08-4097-942c-fb86a045daa8,WV,,,,,,,,,,
+e239bc78-fdc4-47b9-963e-10b3dd8bccae,CA,11/20/2014,266,12400,31609,4.7,0.02,West,Rural,Short Term Acute Care Hospital,Hospital
+e2dbc32d-1587-4138-ab3e-8a36192f7bc1,NH,9/27/2017,86,4347,21899,4.4,0.04,Northeast,Rural,Short Term Acute Care Hospital,Hospital
+e31a56a9-6f64-4ef3-907d-3458a4acb4cf,CA,8/5/2019,318,14208,58783,4.9,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+e333c412-53c7-4e59-8afc-3e4e5f03cca9,MA,8/25/2018,228,15050,60031,4.1,0.02,Northeast,Rural,Short Term Acute Care Hospital,Hospital
+e3e4aa91-f79a-4ab4-ac92-94f716609f41,MA,8/27/2020,102,6135,30869,3.7,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+e455f690-f8aa-489c-afa5-6883ba674876,WV,5/16/2017,25,416,11719,3.8,0.01,Southeast,Rural,Critical Access Hospital,Hospital
+e4cd5bdc-744b-4678-91b8-ebd647a911e4,CA,9/10/2017,50,3451,29948,3.7,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+e4da6554-543b-4f7b-945f-9e1053554733,VA,6/19/2018,107,3385,27380,4.2,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+e5094c3b-1c90-4c98-8cec-1c83b9fe0948,CA,6/20/2017,445,22945,36941,7.2,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+e5a1e2d1-efb1-49ab-8b75-32b94d33be2a,CA,6/18/2017,52,2184,23683,4.3,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+e5b12e03-4255-4f51-93c4-3930bbeb697e,WA,9/13/2020,,,,,,,,,
+e665139e-59b1-4726-b011-bfc442aabb0b,MA,8/21/2018,147,9191,28749,3.9,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+e67421dc-2e57-4950-a0d1-6baa7fa3db67,WA,,,,,,,,,,
+e6838aca-cc73-43fe-831e-6fdee7d5cb81,CA,9/10/2017,117,3690,8938,6.2,,West,Urban,Short Term Acute Care Hospital,Hospital
+e6ceca0c-e0f9-4b0b-bed3-8009c8c5c17c,VA,6/10/2018,150,9789,49662,3.8,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+e79448a8-2aa9-4eb9-9a0d-c15b6d8b6377,CA,11/20/2014,246,12823,40889,4.1,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+e83a5ffa-cdda-496d-9253-61c4e35d3893,VA,6/8/2018,130,9571,17890,4.4,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+e86c93be-7fef-4e7b-b718-5eaba200ea06,VA,6/17/2018,40,1583,18038,3.1,0.03,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+e9347d25-436a-4708-92be-ce5e24471551,VA,6/22/2018,715,36711,91340,6.1,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+e9eb19a4-8d3e-4716-9e89-6f99894ce22b,CA,3/22/2015,82,3066,12878,4,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+eadc9162-20c7-4c96-acd9-84c78866cbe8,ID,7/16/2018,81,3954,20132,3.2,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+eaf2a3d8-16f8-46c5-909d-79c0a1ef6d25,CA,4/1/2019,69,2221,53993,6.4,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+ebce17a1-a17b-424d-a591-09543f65adc2,VA,12/10/2016,25,1449,18144,2.3,,Southeast,Rural,Critical Access Hospital,Hospital
+ec42956a-8a38-4357-b525-5a6cf3c64c08,AK,10/9/2017,74,4324,28387,4.5,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+ed7e7a04-b6ec-4552-88b5-bef3d4b750bf,MA,6/3/2017,157,,,,,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+ed966d16-cdb5-4122-b8da-fb2dab68d9e3,OR,,,,,,,,,,
+ee3fa7f2-62af-45a3-b439-6e7f0028912c,CA,1/19/2019,49,3191,28197,3.4,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+ef2225f4-924e-4d3b-a3a8-59b9d83f7a4c,CA,3/4/2017,80,2700,18717,4,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+f0224fe3-d03f-46cb-9cc2-0d8e4a1cafcb,VA,6/9/2018,25,756,12033,3.2,,Southeast,Rural,Critical Access Hospital,Hospital
+f094b6f1-6f07-499c-a003-3284d568bcd2,MA,11/30/2018,41,1175,20296,3.8,0.01,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+f0d1f9ca-cb89-4f01-b7ff-eecab8a1d8c7,CA,3/3/2017,282,12004,48155,5.6,0.02,West,Rural,Short Term Acute Care Hospital,Hospital
+f19a73d1-e4ad-4fbb-b12a-5d28cae8ecbb,CA,6/21/2019,400,19041,35370,4.8,,West,Urban,Short Term Acute Care Hospital,Hospital
+f1d009ca-397f-450f-85fc-b96b6fc8a3db,VA,12/9/2016,46,1886,26918,3.3,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+f1e7d844-7391-4b8f-a9bb-a363f38b8a37,NH,9/17/2018,24,855,7361,2.5,,Northeast,Rural,Critical Access Hospital,Hospital
+f1f30252-4e53-470b-89e3-16b01cb0aa35,NM,3/31/2018,47,756,7733,3.6,0.01,Southwest,Rural,Short Term Acute Care Hospital,Hospital
+f2a1fe9f-b6de-4f09-9604-996da3d534c7,WV,3/26/2017,,,,,,Southeast,Urban,Childrens Hospital,Hospital
+f2a6e1af-f954-491b-a518-8c4d27fe92b9,WV,9/1/2017,168,6532,29667,4.8,0.03,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+f2cbc2f8-d8d9-4f6e-a62f-1eaa7fdb8f2c,OR,10/26/2014,25,1076,13295,3.7,,West,Rural,Critical Access Hospital,Hospital
+f3207a16-b0c0-48d9-b596-cb8ece736ac0,CA,6/21/2020,186,11860,70977,4.1,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+f3fc16c0-4558-4c68-b5be-e2962a7f0d54,NM,4/6/2019,25,393,5151,3.6,,Southwest,Rural,Critical Access Hospital,Hospital
+f4118325-9f99-4eb2-8f68-a1caf3cc0bf7,VA,6/11/2018,803,44246,146350,5.5,,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+f5b7ab95-562f-4e4a-96e4-d7bd300195b5,WV,2/28/2017,89,5947,50960,4,0.03,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+f64592a8-6373-4a1a-bba3-3569ecbf8a5a,CA,7/26/2018,132,9516,70542,4.6,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+f6b5e085-46f1-46d9-a12a-c938a0e32c02,MA,9/3/2020,145,11284,45380,4,0.02,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+f6d66717-5f08-479c-97df-20339164240b,MA,5/8/2017,175,9634,66395,4.7,0.03,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+f7b017c3-77e7-4301-8c5f-e768de4dfb85,ID,4/2/2018,,,,,,,,,
+f7c41195-a893-4729-af78-e95aa07e877e,NM,5/9/2017,25,808,2907,2.6,,Southwest,Rural,Critical Access Hospital,Hospital
+f811d28b-ad3c-4711-94fb-0619ab989219,WV,11/17/2017,25,550,12276,3.3,,Southeast,Rural,Critical Access Hospital,Hospital
+f85f808c-4814-4c59-b932-3a24cbb962c4,CA,6/17/2017,273,17463,80853,4.3,0.02,West,Urban,Short Term Acute Care Hospital,Hospital
+f8ff5d73-ef64-4cf2-86fb-9249e20230a4,NM,5/29/2017,453,39171,160877,4.7,0.07,Southwest,Urban,Short Term Acute Care Hospital,Hospital
+f90bf6ce-65a0-4f79-b62f-dc49b7d37475,ID,7/16/2018,21,676,12086,2.6,0.01,West,Rural,Critical Access Hospital,Hospital
+f91599bb-2929-468a-a497-a4503223de1d,ID,9/25/2017,348,16465,53395,4.9,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+f9539f43-a8c3-4885-a834-f7837ea11204,CA,,301,11725,,6.7,,West,Rural,Short Term Acute Care Hospital,Hospital
+f984f3b3-ef8c-49fb-b6a3-c1d99c2cabb6,UT,3/30/2019,15,265,2587,2.7,0.01,West,Rural,Critical Access Hospital,Hospital
+f9a3ecf0-b5d0-47b2-a9c1-9de23ea9295a,VA,6/24/2018,70,3472,18132,4.2,0.04,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+f9b7caf0-7edb-481a-b5e8-e83b63a0da86,CA,10/11/2019,189,2759,15498,6.1,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+f9bd04de-26ac-4d86-b6cc-658ae0527f27,VA,6/19/2018,203,13482,58003,4.2,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+fa443f40-5141-4048-b6f3-ba36b6f5262f,WV,12/17/2019,,,,,,,,,
+fa842c34-9ddc-46bf-a586-fb66471b5e5f,CA,8/12/2019,195,11603,51848,4.2,0.01,West,Urban,Short Term Acute Care Hospital,Hospital
+fa949340-2d78-4e20-b65e-495f635e3f42,CA,6/18/2017,40,1199,35910,4.1,0.01,West,Rural,Short Term Acute Care Hospital,Hospital
+fb84b1c0-d4e9-4301-a3a6-6651ae8fb07b,MA,4/8/2018,330,11538,85655,5.1,0.02,Northeast,Urban,Short Term Acute Care Hospital,Hospital
+fc4c57ba-02cc-4458-b02c-f5ff0572f5b2,VA,5/19/2017,115,6946,42134,4,0.01,Southeast,Urban,Short Term Acute Care Hospital,Hospital
+fc66e2c9-61f6-4875-a141-56d63b86790f,UT,3/25/2019,48,1934,18751,3.4,,West,Rural,Short Term Acute Care Hospital,Hospital
+fdd406a9-8a5f-4dd7-a7ad-fa05a7c6e956,CA,10/12/2019,101,5263,12420,4.1,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
+fe5f5add-c19c-4a33-914b-f9f5c5b51756,CA,7/10/2018,24,291,9586,3.8,,West,Rural,Critical Access Hospital,Hospital
+ff529fc2-afeb-434c-949f-8efbe13666da,VA,6/15/2018,67,1514,20937,3.6,0.02,Southeast,Rural,Short Term Acute Care Hospital,Hospital
+ff925e02-beba-44d5-97d2-d5bb097ae0f3,CA,6/18/2017,120,3348,25059,4.9,0.03,West,Urban,Short Term Acute Care Hospital,Hospital
