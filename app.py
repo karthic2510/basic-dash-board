@@ -5,6 +5,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.figure_factory as ff
 import numpy as np
+import os
 
 #loading dataset
 data_comp = pd.read_csv('data_comp.csv')
@@ -25,6 +26,8 @@ active_colors = {'Active' : 'blue', 'Inactive' : 'red'}
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 sales_app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+
+server = sales_app.server
 
 sales_app.layout = html.Div([
     html.Div([
