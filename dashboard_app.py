@@ -7,8 +7,8 @@ import plotly.figure_factory as ff
 import numpy as np
 
 #loading dataset
-data = pd.read_excel('data\Product Scorecard Metrics and ED Visits.xlsx')
-hos_data = pd.read_csv('data\hospital data.csv')
+data = pd.read_excel('Product Scorecard Metrics and ED Visits.xlsx')
+hos_data = pd.read_csv('hospital data.csv')
 
 #cleaning dataset
 ##Creating new variables for active levels
