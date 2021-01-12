@@ -1,1 +1,1 @@
-web: gunicorn sales_app.app
+web: gunicorn app:server
